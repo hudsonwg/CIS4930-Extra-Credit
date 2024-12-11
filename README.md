@@ -17,3 +17,6 @@ This application implements a command parser to streamline the use process. Comm
 - Commit: commits current transaction to main database
 - Rollback: aborts current pending transaction, reverts to pre-transaction state
 - Exit: type exit at any time to exit the program
+
+# Suggestions For Improvements
+- overall this assignment was enjoyable and not too difficult. I think to make this a full "assignment" it might be worth it to specify some sort of data saving requirements or even integrate with a cloud database in order to make it more complex. Otherwise great assignment!
